@@ -16,7 +16,7 @@
   <DirectUrl>http://35.192.200.196/Downloads/lsec6315update</DirectUrl>
   <HttpUrl>http://35.192.200.196/Downloads/lsec6315update</HttpUrl>
   <!-- What version are you issuing? -->
-  <Android>8.1.0</Android>
+  <Android>10</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
   <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>EF2B563A0DAE6D1C25BFF542FE05EB3B</CheckMD5>
