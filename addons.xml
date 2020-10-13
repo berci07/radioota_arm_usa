@@ -4,11 +4,11 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6315_1.zip</name> <!-- The name, simples -->
-            <description>FIRMWARE UPDATE(test)- v1.1 (2020-09-24): Updated OTA manifest date</description> <!-- You can use markdown here if you want -->
+            <description>FIRMWARE UPDATE- v1.1 (2020-09-24): Updated OTA manifest date</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-09-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>28436636</size> <!-- filesize in bytes -->
             <download-link>
-            https://ucd58dff5cb4f9fbef7e52fd8991.dl.dropboxusercontent.com/cd/0/get/BBNDWRNGs62WEQL_rCWLBVHseuLK6Rnu9WtgY4C_Z8Q67Xa0PCp6TenPNWCJ8VPx2LOJrhQxeqcf-PG4qL2shH2UUzGkRFdM5tw7sg0r9jvmgpjVVi7GPooTUla7o27wbTE/file#
+            http://35.192.200.196/Downloads/1.1-armota.zip
             </download-link>
         </addon>
     </addons>
