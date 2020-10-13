@@ -4,7 +4,7 @@
         <addon>
             <id>1</id> <!-- Use integers only, make them unique -->
             <name>6315_1.zip</name> <!-- The name, simples -->
-            <description>FIRMWARE UPDATE- v1.1 (2020-09-24): Updated OTA manifest date</description> <!-- You can use markdown here if you want -->
+            <description>FIRMWARE UPDATE- v1.1 (2020-09-25): Updated OTA manifest date</description> <!-- You can use markdown here if you want -->
             <updated-at>2020-09-24</updated-at> <!-- Must be in yyyy-mm-dd format -->
             <size>28436636</size> <!-- filesize in bytes -->
             <download-link>
